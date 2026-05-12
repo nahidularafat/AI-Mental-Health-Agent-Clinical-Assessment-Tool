@@ -1,0 +1,21 @@
+# ─── Django Core ───
+Django>=4.2,<5.0
+python-dotenv>=1.0.0
+
+# ─── AI & LangChain ───
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-google-genai>=1.0.0
+langgraph>=0.1.0
+
+# ─── MedGemma (local Ollama) ───
+ollama>=0.3.0
+
+# ─── Twilio Emergency Calls ───
+twilio>=9.0.0
+
+# ─── Async / Production Server ───
+gunicorn>=22.0.0
+
+# ─── Dev utilities (remove in production) ───
+# django-debug-toolbar
