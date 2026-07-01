@@ -1,7 +1,28 @@
-[User_Manual_Stress_Level_App.pdf](https://github.com/user-attachments/files/29550665/User_Manual_Stress_Level_App.pdf)
 # 🧠 AI Mental Health Agent & Clinical Assessment Tool
 
 A comprehensive, AI-driven mental health support platform built with **Django**. This project integrates a conversational AI agent (using LangGraph and Gemini) with a highly accurate PyTorch Neural Network to provide empathetic support, clinical stress prediction, and automated therapist recommendations.
+
+📖 **[Download User Manual (PDF)](https://github.com/user-attachments/files/29550665/User_Manual_Stress_Level_App.pdf)**
+
+---
+
+## 📸 Project Screenshots
+
+<details>
+  <summary><b>👉 Click here to view application screenshots</b></summary>
+  <br>
+  <img width="100%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/000f5cf8-8081-4483-a27e-112560bf351f" />
+  <br><br>
+  <img width="100%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ac86c005-bba2-49ac-bf3b-78b80bef4f21" />
+  <br><br>
+  <img width="100%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/29c7cc5d-c1e5-45dc-a7bb-a81e14e1267a" />
+  <br><br>
+  <img width="100%" alt="Screenshot 4" src="https://github.com/user-attachments/assets/9fce6730-28a1-4630-ad6a-432f48b24cd9" />
+  <br><br>
+  <img width="100%" alt="Screenshot 5" src="https://github.com/user-attachments/assets/a8cde961-eed0-40d2-abf0-e9bcab0391c8" />
+</details>
+
+---
 
 ## ✨ Key Features
 
@@ -20,9 +41,13 @@ A comprehensive, AI-driven mental health support platform built with **Django**.
 * **External APIs:** Twilio (SMS & Voice Calls)
 * **Frontend:** HTML, Tailwind CSS, JavaScript
 
+
+
+
+
 ## 📂 Project Structure
 
-text
+```text
 ├── chat/
 │   ├── ai_agent.py        # LangGraph ReAct Agent setup and tool definitions
 │   ├── tools.py           # Custom tools (MedGemma, Twilio Emergency)
@@ -33,53 +58,4 @@ text
 ├── framework_scaler.pkl   # StandardScaler for input normalization
 ├── doctor_list.csv        # Custom dataset for therapist recommendations
 ├── manage.py              # Django project manager
-└── requirements.txt       # Python dependencies
-
-Bash
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Linux/Mac:
-source venv/bin/activate
-3. Install dependencies:
-
-Bash
-pip install -r requirements.txt
-4. Configure Environment Variables:
-Update the chat/config.py file with your API keys:
-
-GOOGLE_API_KEY
-
-TWILIO_ACCOUNT_SID & TWILIO_AUTH_TOKEN
-
-5. Apply Database Migrations:
-
-Bash
-python manage.py makemigrations
-python manage.py migrate
-6. Run the local server:
-
-Bash
-python manage.py runserver
-Navigate to http://127.0.0.1:8000/ in your browser.
-
-🧠 Machine Learning Architecture
-The Clinical Assessment Tool utilizes a Multi-Layer Perceptron (MLP) architecture named MediumNN. It features:
-
-Input Layer: 20 features (anxiety level, sleep quality, academic performance, etc.)
-
-Hidden Layers: 32 neurons -> 16 neurons with Batch Normalization and ReLU activation functions.
-
-Output Layer: 3 classes (Low, Moderate, Critical Stress).
-
-Training Methodology: Augmented training data with carefully tuned micro-noise injection, achieving robust performance without overfitting.
-
-🤝 Contribution
-This project is developed as a Capstone/Thesis project. Feedback, bug reports, and pull requests are welcome!
-
-
-text<img width="1876" height="940" alt="Screenshot 2026-07-01 181021" src="https://github.com/user-attachments/assets/000f5cf8-8081-4483-a27e-112560bf351f" />
-<img width="1903" height="923" alt="Screenshot 2026-07-01 181001" src="https://github.com/user-attachments/assets/ac86c005-bba2-49ac-bf3b-78b80bef4f21" />
-<img width="1894" height="924" alt="Screenshot 2026-07-01 180936" src="https://github.com/user-attachments/assets/29c7cc5d-c1e5-45dc-a7bb-a81e14e1267a" />
-<img width="1903" height="930" alt="Screenshot 2026-07-01 180924" src="https://github.com/user-attachments/assets/9fce6730-28a1-4630-ad6a-432f48b24cd9" />
-<img width="1918" height="932" alt="Screenshot 2026-07-01 180908" src="https://github.com/user-attachments/assets/a8cde961-eed0-40d2-abf0-e9bcab0391c8" />
+└── requirements.txt       # Python dependencies  ""
