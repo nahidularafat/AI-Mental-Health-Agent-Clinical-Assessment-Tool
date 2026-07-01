@@ -1,4 +1,3 @@
-Markdown
 # 🧠 AI Mental Health Agent & Clinical Assessment Tool
 
 A comprehensive, AI-driven mental health support platform built with **Django**. This project integrates a conversational AI agent (using LangGraph and Gemini) with a highly accurate PyTorch Neural Network to provide empathetic support, clinical stress prediction, and automated therapist recommendations.
@@ -19,14 +18,10 @@ A comprehensive, AI-driven mental health support platform built with **Django**.
 * **AI/LLM:** LangChain, LangGraph, Google Gemini API, Ollama (MedGemma)
 * **External APIs:** Twilio (SMS & Voice Calls)
 * **Frontend:** HTML, Tailwind CSS, JavaScript
-Therapist / Admin Portal Account**
-Access the exclusive therapist portal to monitor patient sessions and trigger proactive SMS check-ins.
-* **Username:** demo
-* **Password:** demo
+
 ## 📂 Project Structure
 
-
-
+text
 ├── chat/
 │   ├── ai_agent.py        # LangGraph ReAct Agent setup and tool definitions
 │   ├── tools.py           # Custom tools (MedGemma, Twilio Emergency)
@@ -38,11 +33,7 @@ Access the exclusive therapist portal to monitor patient sessions and trigger pr
 ├── doctor_list.csv        # Custom dataset for therapist recommendations
 ├── manage.py              # Django project manager
 └── requirements.txt       # Python dependencies
-🚀 Installation & Setup
-Follow these steps to run the project locally:
-
 1. Clone the repository:
-
 Bash
 git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
 cd your-repo-name
