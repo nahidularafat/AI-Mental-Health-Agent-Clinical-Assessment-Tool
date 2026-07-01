@@ -1,3 +1,4 @@
+[User_Manual_Stress_Level_App.pdf](https://github.com/user-attachments/files/29550665/User_Manual_Stress_Level_App.pdf)
 # 🧠 AI Mental Health Agent & Clinical Assessment Tool
 
 A comprehensive, AI-driven mental health support platform built with **Django**. This project integrates a conversational AI agent (using LangGraph and Gemini) with a highly accurate PyTorch Neural Network to provide empathetic support, clinical stress prediction, and automated therapist recommendations.
