@@ -20,3 +20,4 @@ google-genai
 twilio
 python-dotenv
 
+pandas
