@@ -42,7 +42,74 @@ A comprehensive, AI-driven mental health support platform built with **Django**.
 * **Frontend:** HTML, Tailwind CSS, JavaScript
 
 
+🚀 Installation & Setup
+Follow these steps to run the project locally:
 
+1. Clone the repository:
+
+Bash
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+cd your-repo-name
+2. Create a virtual environment and activate it:
+
+Bash
+python -m venv venv
+
+# On Windows:
+venv\Scripts\activate
+
+# On Linux/Mac:
+source venv/bin/activate
+3. Install dependencies:
+
+Bash
+pip install -r requirements.txt
+4. Configure Environment Variables:
+Update the chat/config.py file with your API keys:
+
+GOOGLE_API_KEY
+
+TWILIO_ACCOUNT_SID
+
+TWILIO_AUTH_TOKEN
+
+5. Apply Database Migrations:
+
+Bash
+python manage.py makemigrations
+python manage.py migrate
+6. Run the local server:
+
+Bash
+python manage.py runserver
+Navigate to http://127.0.0.1:8000/ in your browser.
+
+🔐 Demo Access
+To explore the platform without registering, you can use the following demo credentials:
+
+Patient Account: Username: demo_patient | Password: Demo@12345
+
+Therapist Account: Username: demo_therapist | Password: Demo@12345
+
+🧠 Machine Learning Architecture
+The Clinical Assessment Tool utilizes a Multi-Layer Perceptron (MLP) architecture named MediumNN. It features:
+
+Input Layer: 20 features (anxiety level, sleep quality, academic performance, etc.)
+
+Hidden Layers: 32 neurons -> 16 neurons with Batch Normalization and ReLU activation functions.
+
+Output Layer: 3 classes (Low, Moderate, Critical Stress).
+
+Training Methodology: Augmented training data with carefully tuned micro-noise injection, achieving robust performance without overfitting.
+
+🤝 Contribution
+This project is developed as a Capstone/Thesis project. Feedback, bug reports, and pull requests are welcome!<img width="1876" height="940" alt="Screenshot 2026-07-01 181021" src="https://github.com/user-attachments/assets/7a616452-6dc8-4c87-a286-751614791ab6" />
+<img width="1903" height="923" alt="Screenshot 2026-07-01 181001" src="https://github.com/user-attachments/assets/5216195d-2207-4a41-b3c3-43ab308c1e7a" />
+<img width="1894" height="924" alt="Screenshot 2026-07-01 180936" src="https://github.com/user-attachments/assets/15bf54c8-47a2-4912-9755-20a57ced1d97" />
+<img width="1903" height="930" alt="Screenshot 2026-07-01 180924" src="https://github.com/user-attachments/assets/a9c0f7a1-fa29-4709-a283-2ca4c7ebbc37" />
+<img width="1918" height="932" alt="Screenshot 2026-07-01 180908" src="https://github.com/user-attachments/assets/0b9617d8-7d13-42cd-970f-ec0b417944be" />
+
+user menual for detect mental health : [User_Manual_Stress_Level_App.pdf](https://github.com/user-attachments/files/29550967/User_Manual_Stress_Level_App.pdf)
 
 
 ## 📂 Project Structure
