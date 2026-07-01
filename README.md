@@ -33,11 +33,6 @@ text
 ├── doctor_list.csv        # Custom dataset for therapist recommendations
 ├── manage.py              # Django project manager
 └── requirements.txt       # Python dependencies
-1. Clone the repository:
-Bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-cd your-repo-name
-2. Create a virtual environment and activate it:
 
 Bash
 python -m venv venv
