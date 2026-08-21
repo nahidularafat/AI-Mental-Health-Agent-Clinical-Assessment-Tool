@@ -72,21 +72,6 @@ A comprehensive, AI-driven mental health support platform built with **Django**.
 
 ---
 
-## 📸 Project Screenshots
-
-<details>
-  <summary><b>👉 Click here to view application screenshots</b></summary>
-  <br>
-  <img width="100%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/000f5cf8-8081-4483-a27e-112560bf351f" />
-  <br><br>
-  <img width="100%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ac86c005-bba2-49ac-bf3b-78b80bef4f21" />
-  <br><br>
-  <img width="100%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/29c7cc5d-c1e5-45dc-a7bb-a81e14e1267a" />
-  <br><br>
-  <img width="100%" alt="Screenshot 4" src="https://github.com/user-attachments/assets/9fce6730-28a1-4630-ad6a-432f48b24cd9" />
-  <br><br>
-  <img width="100%" alt="Screenshot 5" src="https://github.com/user-attachments/assets/a8cde961-eed0-40d2-abf0-e9bcab0391c8" />
-</details>
 
 ---
 
