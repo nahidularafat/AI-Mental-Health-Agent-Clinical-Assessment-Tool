@@ -101,13 +101,19 @@ Output Layer: 3 classes (Low, Moderate, Critical Stress).
 Training Methodology: Augmented training data with carefully tuned micro-noise injection, achieving robust performance without overfitting.
 
 🤝 Contribution
-This project is developed as a Capstone/Thesis project. Feedback, bug reports, and pull requests are welcome!<img width="1876" height="940" alt="Screenshot 2026-07-01 181021" src="https://github.com/user-attachments/assets/7a616452-6dc8-4c87-a286-751614791ab6" />
-<img width="1903" height="923" alt="Screenshot 2026-07-01 181001" src="https://github.com/user-attachments/assets/5216195d-2207-4a41-b3c3-43ab308c1e7a" />
-<img width="1894" height="924" alt="Screenshot 2026-07-01 180936" src="https://github.com/user-attachments/assets/15bf54c8-47a2-4912-9755-20a57ced1d97" />
-<img width="1903" height="930" alt="Screenshot 2026-07-01 180924" src="https://github.com/user-attachments/assets/a9c0f7a1-fa29-4709-a283-2ca4c7ebbc37" />
-<img width="1918" height="932" alt="Screenshot 2026-07-01 180908" src="https://github.com/user-attachments/assets/0b9617d8-7d13-42cd-970f-ec0b417944be" />
+This project is developed as a Capstone/Thesis project. Feedback, bug reports, and pull requests are welcome!
+
+
 
 user menual for detect mental health : [User_Manual_Stress_Level_App.pdf](https://github.com/user-attachments/files/29550967/User_Manual_Stress_Level_App.pdf)
+<img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/b05df55e-1dc2-4db6-8039-0e6cc20359e8" />
+<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/6cdca319-62d8-48d0-9af1-0f0b926188ae" />
+<img width="1306" height="933" alt="image" src="https://github.com/user-attachments/assets/50c9aa3b-9dee-4702-8540-979247c7970b" />
+<img width="1600" height="647" alt="image" src="https://github.com/user-attachments/assets/4e28fc09-d086-4cd5-9fb3-3f4ab47909bb" />
+<img width="1600" height="874" alt="image" src="https://github.com/user-attachments/assets/8e009bdc-e5fd-4fbe-9d84-01eef0c647cb" />
+<img width="1600" height="647" alt="image" src="https://github.com/user-attachments/assets/2764d050-dfe8-488d-82af-0f2104a648a3" />
+<img width="1600" height="776" alt="image" src="https://github.com/user-attachments/assets/7e5fa1f3-5736-46bd-81c2-733b657109c8" />
+
 
 
 ## 📂 Project Structure
