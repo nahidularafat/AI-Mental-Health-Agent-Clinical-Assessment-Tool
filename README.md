@@ -28,13 +28,44 @@ A comprehensive, AI-driven mental health support platform built with **Django**.
       <td>
         <img src="https://github.com/user-attachments/assets/a8cde961-eed0-40d2-abf0-e9bcab0391c8" alt="Screenshot 5" width="100%">
       </td>
-      <td></td>
+      <td>/td>
       
     </tr>
   </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ef32420d-bfae-4979-a550-482775c5ffea" alt="Screenshot 1" width="100%">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/91132fac-6b49-49b7-926d-c3dd10615c04" alt="Screenshot 2" width="100%">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/bd947a56-c87f-4507-99a6-ab297cb4e2db" alt="Screenshot 3" width="100%">
+    </td>
+  </tr>
 
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/004e8587-04fc-42ed-b203-45a01412aa2c" alt="Screenshot 4" width="100%">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/edbd128f-069e-4925-b86f-eae69d6ad273" alt="Screenshot 5" width="100%">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/84d7a2e4-2868-4005-bda2-0c4f1fc44d8a" alt="Screenshot 6" width="100%">
+    </td>
+  </tr>
 
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c63d1b08-89e4-4eac-a3fc-52232deb0626" alt="Screenshot 7" width="100%">
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 ---
 
 📖 **[Download User Manual (PDF)](https://github.com/user-attachments/files/29550665/User_Manual_Stress_Level_App.pdf)**
