@@ -5,8 +5,8 @@ A comprehensive, AI-driven mental health support platform built with **Django**.
 
 ## 📸 Project Screenshots
 
-<details>
-  <summary><b>👉 Click here to view application screenshots</b></summary>
+
+
   <br>
 
   <table>
@@ -29,10 +29,11 @@ A comprehensive, AI-driven mental health support platform built with **Django**.
         <img src="https://github.com/user-attachments/assets/a8cde961-eed0-40d2-abf0-e9bcab0391c8" alt="Screenshot 5" width="100%">
       </td>
       <td></td>
+      
     </tr>
   </table>
 
-</details>
+
 
 ---
 
