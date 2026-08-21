@@ -2,24 +2,39 @@
 
 A comprehensive, AI-driven mental health support platform built with **Django**. This project integrates a conversational AI agent (using LangGraph and Gemini) with a highly accurate PyTorch Neural Network to provide empathetic support, clinical stress prediction, and automated therapist recommendations.
 
+
+## 📸 Project Screenshots
+
 <details>
   <summary><b>👉 Click here to view application screenshots</b></summary>
   <br>
 
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/000f5cf8-8081-4483-a27e-112560bf351f" alt="Screenshot 1" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/ac86c005-bba2-49ac-bf3b-78b80bef4f21" alt="Screenshot 2" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/29c7cc5d-c1e5-45dc-a7bb-a81e14e1267a" alt="Screenshot 3" width="100%"></td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/000f5cf8-8081-4483-a27e-112560bf351f" alt="Screenshot 1" width="100%">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/ac86c005-bba2-49ac-bf3b-78b80bef4f21" alt="Screenshot 2" width="100%">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/29c7cc5d-c1e5-45dc-a7bb-a81e14e1267a" alt="Screenshot 3" width="100%">
+      </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/9fce6730-28a1-4630-ad6a-432f48b24cd9" alt="Screenshot 4" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/a8cde961-eed0-40d2-abf0-e9bcab0391c8" alt="Screenshot 5" width="100%"></td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/9fce6730-28a1-4630-ad6a-432f48b24cd9" alt="Screenshot 4" width="100%">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/a8cde961-eed0-40d2-abf0-e9bcab0391c8" alt="Screenshot 5" width="100%">
+      </td>
       <td></td>
     </tr>
   </table>
 
 </details>
+
+---
 
 📖 **[Download User Manual (PDF)](https://github.com/user-attachments/files/29550665/User_Manual_Stress_Level_App.pdf)**
 
